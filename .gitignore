@@ -14,8 +14,6 @@ node_modules
 .next
 
 # Environment Variables
-.env
-.env.local
 # Debug
 npm-debug.log*
 yarn-debug.log*
@@ -54,3 +52,6 @@ logs
 .npm
 .eslintcache
 
+.next/
+.next.zip
+config.bat
