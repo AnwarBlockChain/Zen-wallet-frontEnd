@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="256px" height="240px" viewBox="0 0 256 240" version="1.1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
+  <g>
+    <polygon fill="#E17726" stroke="#E17726" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="127.9611 0.0001 125.1661 9.5001 125.1661 157.5141 127.9611 160.3101 193.9611 121.4251"></polygon>
+    <polygon fill="#E27625" stroke="#E27625" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="62.0391 121.4251 127.9611 160.3101 127.9611 0.0001"></polygon>
+    <polygon fill="#E27625" stroke="#E27625" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="95.1131 80.2301 52.0391 99.2301 75.0391 121.3301"></polygon>
+    <polygon fill="#E27625" stroke="#E27625" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="160.8871 80.2301 180.8871 121.3301 203.9611 99.2301"></polygon>
+    <polygon fill="#F5841F" stroke="#F5841F" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="75.0391 121.4251 92.0391 148.4251 49.0391 156.4251"></polygon>
+    <polygon fill="#F5841F" stroke="#F5841F" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="180.9611 121.4251 206.9611 156.4251 163.9611 148.4251"></polygon>
+    <polygon fill="#E27625" stroke="#E27625" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="130.9611 147.0001 127.9611 160.0001 164.9611 148.0001 160.9611 120.0001"></polygon>
+    <polygon fill="#E27625" stroke="#E27625" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="125.1661 147.0001 95.0391 120.0001 91.0391 148.0001 127.9611 160.0001"></polygon>
+    <polygon fill="#D5BFB2" stroke="#D5BFB2" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="128.0391 208.0001 127.9611 220.0001 164.9611 200.0001 164.9611 171.0001"></polygon>
+    <polygon fill="#D5BFB2" stroke="#D5BFB2" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="127.9611 208.0001 91.0391 171.0001 91.0391 200.0001 127.9611 220.0001"></polygon>
+    <polygon fill="#233447" stroke="#233447" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="110.9611 142.0001 90.9611 134.0001 103.9611 126.0001"></polygon>
+    <polygon fill="#233447" stroke="#233447" stroke-width="0.25" stroke-linecap="round" stroke-linejoin="round" points="144.9611 142.0001 151.9611 126.0001 164.9611 134.0001"></polygon>
+  </g>
+</svg> 
